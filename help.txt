@@ -1,0 +1,5 @@
+javac .\HelloWorld.java                     - компилировать исходный код в байт код
+
+установить положение jar.exe в переменную PATH
+
+jar -cf hw.jar .\HelloWorld.class           - создание jar файла
